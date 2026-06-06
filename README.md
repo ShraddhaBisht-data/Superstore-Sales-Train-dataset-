@@ -27,11 +27,17 @@ Shipping mode influences customer purchasing behavior.
 🛠 What Was Done?
 
 ✔ Data Cleaning & Preprocessing
+
 ✔ Missing Value Treatment
+
 ✔ Duplicate Removal
+
 ✔ Univariate Analysis
+
 ✔ Bivariate Analysis
+
 ✔ Correlation Analysis
+
 ✔ Business Insight Generation
 
 📈 Key Insights
