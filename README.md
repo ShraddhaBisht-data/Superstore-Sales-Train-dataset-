@@ -7,9 +7,13 @@ Businesses generate huge amounts of sales data every day, but raw data alone can
 🔍 Research Questions
 
 Which products generate the highest sales?
+
 Which customer segment contributes the most?
+
 Which region performs best?
+
 Are sales and profit related?
+
 How can the business improve performance?
  
 💡 Hypotheses
